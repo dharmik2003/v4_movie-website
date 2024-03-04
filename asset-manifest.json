@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/v4_movie-website/static/css/main.615431d8.css",
+    "main.js": "/v4_movie-website/static/js/main.825bd7a4.js",
+    "static/media/slick.svg": "/v4_movie-website/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/v4_movie-website/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/v4_movie-website/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/v4_movie-website/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/v4_movie-website/index.html",
+    "main.615431d8.css.map": "/v4_movie-website/static/css/main.615431d8.css.map",
+    "main.825bd7a4.js.map": "/v4_movie-website/static/js/main.825bd7a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.615431d8.css",
+    "static/js/main.825bd7a4.js"
+  ]
+}
